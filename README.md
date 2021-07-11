@@ -2,6 +2,8 @@
 
 Project on the Gentrification of New York City
 
+*Website*: http://nycgentrification.pythonanywhere.com/
+
 By:
 Zineb Fadili (s201501)
 Miriam Peinado (s211141)
